@@ -1,0 +1,15 @@
+{
+    "buildprefix": "build_",
+    "change": "Additional arch descriptions (f5sh)",
+    "description": "The thread-demo application demonstrates how to use threads in Stratify OS using the Stratify API.",
+    "github": "https://github.com/StratifyLabs/thread-demo",
+    "hardwareid": "",
+    "name": "thread-demo",
+    "permissions": "public",
+    "publisher": "Stratify Labs, Inc",
+    "ram": 0,
+    "tags": "demo",
+    "type": "StratifyApp",
+    "uid": "QSW7bQHeDqhJEcZ0mxQ5SmEYUSL2",
+    "version": "0.1"
+}
